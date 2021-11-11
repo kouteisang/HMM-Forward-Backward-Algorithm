@@ -1,7 +1,7 @@
 from numpy import  *
 
 '''
-The implement of Forward Algorithm
+The implement of Forward & Backward Algorithm
 '''
 
 class HMM:
